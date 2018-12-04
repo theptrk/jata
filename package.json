@@ -1,0 +1,22 @@
+{
+  "name": "jata",
+  "version": "1.0.0",
+  "description": "experimental library to add functionality to vanilla javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theptrk/jata.git"
+  },
+  "author": "theptrk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theptrk/jata/issues"
+  },
+  "homepage": "https://github.com/theptrk/jata#readme"
+}
